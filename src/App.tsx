@@ -20,7 +20,8 @@ const DEFAULT_SETTINGS: SchoolSettings = {
   subName: "Minhaj-ul-Quran Model School Tahir Abad",
   principalName: "Principal Sahab",
   address: "Tahir Abad, Main Branch",
-  academicYear: "2024-2025"
+  academicYear: "2024-2025",
+  logoUrl: "",
 };
 
 interface BeforeInstallPromptEvent extends Event {
