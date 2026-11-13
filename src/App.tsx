@@ -12,6 +12,7 @@ interface SchoolSettings {
   principalName: string;
   address: string;
   academicYear: string;
+  logoUrl: string;
 }
 
 const DEFAULT_SETTINGS: SchoolSettings = {
